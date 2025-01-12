@@ -1,5 +1,5 @@
-# Demand-Forecast
-DDSC W25 Project
+# Demand-Forecast Info
+* For: DDSC W25
 
 # Educational Resources
 All resources can be found [here](/education/README.md)

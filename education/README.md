@@ -25,17 +25,19 @@ Please watch the crash course [here](https://youtu.be/VchuKL44s6E?si=RFeg0qXNQnH
     * Using pairplots, heatmaps, and t-statistic tests for feature relavence will be important
     * We may collectively add other EDA methods if it helps with understanding our data or what models to use
     * I recommend use Microsoft Excel for basic data cleaning and Pandas for advanced data manipulation and analysis
+* [Relavent Project](https://www.kaggle.com/code/yasserh/walmart-sales-prediction-best-ml-algorithms)
+    * We will NOT be copying this, this is only to understand how the data should look
 * [Pandas Cheat Sheet](/education/EDA/Pandas_Cheat_Sheet.pdf)
 * [Pandas Crash Course](https://www.youtube.com/watch?v=tRKeLrwfUgU&ab_channel=NicholasRenotte)
     * Just understand how a DataFrame works
     * No need to memorize everything!
 * Optional: [EDA Crash Course](https://youtu.be/wPcR9Kmv91g?si=sF7eD7pmOnVdwJen)
 
-# Regression
-
-
-# Deep Learning
-
+# Machine Learning
+* Objective: Predict Sales in future years
+* For this project:
+    * We will need to split the data into past years (training data) and future years (test data)
+    * We plan to implement one of the Hybrid models from this [research paper](https://www.sciencedirect.com/science/article/pii/S2212827122004036)
 
 # Special Topics
 * If time allows, we can do extra, such as:
