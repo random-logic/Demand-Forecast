@@ -5,10 +5,10 @@
 
 # ConsumerConfidenceIndex.xls
 * Downloaded from [here](https://data.sca.isr.umich.edu/tables.php)
-* A feature of our model
+* Might be a useful feature for our model
 * We will need to merge this to Walmart.csv, match by date
 
 # FEDFUNDS.csv
 * Downloaded from [here](https://fred.stlouisfed.org/series/FEDFUNDS)
-* A feature of our model
+* Might be a useful feature for our model
 * We will need to merge this to Walmart.csv, match by date
