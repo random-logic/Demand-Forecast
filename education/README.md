@@ -45,7 +45,7 @@ Get started [here](start/README.md)
     * We plan to implement one of the Hybrid models from this [research paper](https://www.sciencedirect.com/science/article/pii/S2212827122004036)
 * TODO: Put more resources
 
-# 8 - Special Topics
+# 8 - (Optional) Special Topics
 * If time allows, we can do extra, such as:
     * Deploy, train, and test the model in AWS
     * Apply reinforcement learning
