@@ -2,4 +2,9 @@
 DDSC W25 Project
 
 # Educational Resources
-1. [Python](https://youtu.be/VchuKL44s6E?si=RFeg0qXNQnHdBUP3)
+All resources can be found [here](/education/README.md)
+
+# Timeline
+Time Length: 1 Quarter
+
+Week 1: Complete Get Started section and familiarize yourself with Git and Python [here](/education/README.md)
