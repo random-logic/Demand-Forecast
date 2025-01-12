@@ -10,9 +10,7 @@ For ease of collaboration, Git will be required for this project.
 3. Add [SSH Key to Your Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui)
     * Make sure to select the right platform (Mac or Windows or Linux)
     * Complete the *Adding a new SSH key to your account* section
-4. Open Terminal or Command Prompt where you want to save the project folder
-5. Run: `git clone git@github.com:random-logic/Demand-Forecast.git`
-6. If you DON'T know how to use VIM in Terminal, run: `git config --global core.editor "nano"`
+4. If you DON'T know how to use VIM in Terminal, run: `git config --global core.editor "nano"`
 
 # Windows Users Only: Install WSL2
 * I will require WSL2 for this project, for UNIX consistency across all OS
