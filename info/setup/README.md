@@ -1,5 +1,5 @@
 # Git / GitHub
-For ease of collaboration, Git will be required for this project.
+For ease of collaboration
 
 1. Install [Git](https://git-scm.com/downloads)
     * Keep default settings during install process
@@ -13,12 +13,12 @@ For ease of collaboration, Git will be required for this project.
 4. If you DON'T know how to use VIM in Terminal, run: `git config --global core.editor "nano"`
 
 # Windows Users Only: Install WSL2
-* I will require WSL2 for this project, for UNIX consistency across all OS
+* For UNIX consistency across all OS
 * Instructions can be found [here](https://learn.microsoft.com/en-us/windows/wsl/install)
 * Complete the *Get started*, *Set up your Linux username and password*, and *Update and upgrade packages* sections.
 
 # Virtual Environment
-To minimize interference with other Python dependencies, virtual environments are required.
+To minimize interference with other Python dependencies
 
 1. MacOS / Linux: Download [Conda](https://www.anaconda.com/download/success)
     * Keep default settings during install process
