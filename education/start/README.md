@@ -19,6 +19,10 @@
 1. Run: `pip install [dependency name]`
 2. Run: `pip freeze > requirements.txt`
 
+# Uninstall Dependencies
+1. Run: `pip install [dependency name]`
+2. Run: `pip freeze > requirements.txt`
+
 # Creating New Code
 * Create .py for Python Scripts or .ipynb for Jupyter Notebooks
 * ALL CODE should go in [this directory](/src)
