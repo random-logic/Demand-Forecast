@@ -22,6 +22,8 @@
 # Creating New Code
 * Create .py for Python Scripts or .ipynb for Jupyter Notebooks
 * ALL CODE should go in [this directory](/src)
+* When importing code from other scripts in src, use relative paths from repo
+  * DO NOT use absolute paths or it won't work on other computers
 
 # Execute Code
-1. Run: `python3 [filename]`
+1. Run: `python3 [path to file]`

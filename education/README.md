@@ -43,6 +43,8 @@ Get started [here](start/README.md)
 * For this project:
     * We will need to split the data into past years (training data) and future years (test data)
     * We plan to implement one of the Hybrid models from this [research paper](https://www.sciencedirect.com/science/article/pii/S2212827122004036)
+* [Relavent Project](https://www.kaggle.com/code/yasserh/walmart-sales-prediction-best-ml-algorithms)
+    * We will NOT be copying this, this is only to understand the ballpark of how accurate our models should be
 * TODO: Put more resources
 
 # 8 - (Optional) Special Topics
