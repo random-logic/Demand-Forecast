@@ -1,6 +1,9 @@
 # Prerequisites
 [setup](/education/setup/README.md)
 
+# Windows Users: Before Coding
+Please launch WSL, and do all the work in there.
+
 # Working for First Time
 1. Open Terminal or Command Prompt where you want to save the project folder
 2. Run: `git clone git@github.com:random-logic/Demand-Forecast.git`
