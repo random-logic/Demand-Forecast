@@ -6,6 +6,7 @@
 * [Using ACF and PACF choose p, q](https://youtu.be/ZTm8PJdFS-4?si=sSOQFcoblunkpH0_)
   * After finding range of parameters, we will use grid search, as seen in coding example below
 * [Grid search example](https://www.influxdata.com/blog/python-ARIMA-tutorial-influxDB/#heading1)
+* [Code Example](https://www.projectpro.io/article/how-to-build-arima-model-in-python/544)
 * (Optional) [Application to stocks](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
 
 # Neural Networks

@@ -1,6 +1,3 @@
-# Prerequisites
-[setup](/education/setup/README.md)
-
 # Windows Users: Before Coding
 Please launch WSL, and do all the work in there.
 
