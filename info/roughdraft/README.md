@@ -14,6 +14,7 @@ Time Length: 1 Quarter
 | Feb 16-Mar 8| *         | Buffer weeks / (Optional) [Section 8](/info/README.md)                                     |
 
 # 5 - Storing Data
+* [Numpy Crash Course](EDA/)
 * [Pandas Cheat Sheet](EDA/Pandas_Cheat_Sheet.pdf)
 * [Pandas Crash Course](https://www.youtube.com/watch?v=tRKeLrwfUgU&ab_channel=NicholasRenotte)
     * Just understand how a DataFrame works
@@ -23,13 +24,14 @@ Time Length: 1 Quarter
 * Objective: Figure out how our data looks and what features are relavent to our response variable
     * Definitions: features = inputs, response = output
 * For this project:
-    * We will store all [data](/dataset/README.md) in data frames
+    * We will store [data](/dataset/README.md) in data frames
     * Using pairplots and heatmaps for feature relavence will be important
     * We may collectively add other EDA methods if it helps with understanding our data or what models to use
     * I recommend use Microsoft Excel for basic data cleaning and Pandas for advanced data manipulation and analysis
 * [Relavent Project](https://www.kaggle.com/code/yasserh/walmart-sales-prediction-best-ml-algorithms)
     * We will NOT be copying this, this is only to understand how the data should look
 * Optional: [EDA Crash Course](https://youtu.be/wPcR9Kmv91g?si=sF7eD7pmOnVdwJen)
+    * Some parts may be useful, others are not for this project
 
 # 7 - Machine Learning
 * Objective: Predict Sales in future years
