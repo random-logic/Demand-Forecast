@@ -39,7 +39,7 @@ These are for references while coding
 * For this project:
     * We will store [data](/dataset/README.md) in data frames
     * Using pairplots and heatmaps for feature relavence will be important
-    * We may collectively add other EDA methods if it helps with understanding our data or what models to use
+    * We may collectively add other EDA methods or visualizations if it helps with understanding our data or what models to use
     * I recommend use Microsoft Excel for basic data cleaning and Pandas for advanced data manipulation and analysis
     * Create visuals to show if our [variance is constant](/info/constvar/README.md)
 * [Relavent Project](https://www.kaggle.com/code/yasserh/walmart-sales-prediction-best-ml-algorithms)
