@@ -57,6 +57,7 @@ These are for references while coding
 * [Concepts](model/README.md)
 
 # 9 - (Optional) Special Topics
+* [How to Read ML Research Papers](https://youtu.be/733m6qBH-jI?si=wuUX9DXm1opoymQ0&t=141)
 * If time allows, we can do extra, such as:
     * Trying [other models](model/README.md)
     * Deploy, train, and test the model in AWS
