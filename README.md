@@ -1,6 +1,14 @@
 # Demand-Forecast Info
 For: DDSC W25
 
+# Groups
+| **Responsibility** | **Group** | **Names**                                                                                  |
+|--------------------|-----------|--------------------------------------------------------------------------------------------|
+| ARIMAX             | A         | Alex                                                   |
+| Neural Networks    | B         | William                                                     |
+| EDA                | E         | Dylan                                   |
+| Flex               | F         | Dylan                                  |
+
 # Timeline
 Time Length: 1 Quarter
 | **Finish By** | **Group** | **Tasks**                                                                                  |
