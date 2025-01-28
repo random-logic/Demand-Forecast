@@ -24,6 +24,6 @@ Time Length: 1 Quarter
 | Feb 15        | A         | Complete [Section Neural Networks](/info/model/README.md), aid group B                     |
 | Feb 15        | B         | Train and optimize [NN](/info/README.md)                                                   |
 | Feb 15        | F         | Aid groups A / B                                                                           |
-| Feb 22        | *         | Special Topics                                                                             |
-| Mar 1         | *         | Special Topics                                                                             |
+| Feb 22        | *         | (Optional) [Special Topics](/info/README.md)                                               |
+| Mar 1         | *         | (Optional) [Special Topics](/info/README.md)                                               |
 | Mar 5         | *         | Complete slides and rehearse for presentation                                              |
