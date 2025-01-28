@@ -22,7 +22,7 @@ Time Length: 1 Quarter
 | Feb 8         | B         | Implement [NN](/info/README.md), research training and optimizations                       |
 | Feb 8         | F         | Complete [*](/info/model/README.md) and aid groups A / B                                   |
 | Feb 15        | A         | Complete [Section Neural Networks](/info/model/README.md), aid group B                     |
-| Feb 15        | B         | Train NN and optimize [ML Neural Network](/info/README.md)                                 |
+| Feb 15        | B         | Train and optimize [NN](/info/README.md)                                                   |
 | Feb 15        | F         | Aid groups A / B                                                                           |
 | Feb 22        | *         | Special Topics                                                                             |
 | Mar 1         | *         | Special Topics                                                                             |
