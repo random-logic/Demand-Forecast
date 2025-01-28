@@ -12,3 +12,4 @@ Time Length: 1 Quarter
 | Feb 1         | E         | Complete [EDA](/info/README.md)                                                            |
 | Feb 8         | A         | Start implementing [ML ARIMAX](/info/README.md)                                            |
 | Feb 8         | B         | Start implementing [ML Neural Network](/info/README.md)                                    |
+| Feb 8         | F         | Complete [*](/info/model/README.md) and aid groups A / B                                   |
