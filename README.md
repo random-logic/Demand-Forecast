@@ -1,6 +1,14 @@
 # Demand-Forecast Info
 For: DDSC W25
 
+# Groups
+| **Responsibility** | **Group** | **Names**                                                                                  |
+|--------------------|-----------|--------------------------------------------------------------------------------------------|
+| ARIMAX             | A         | Alex                                                   |
+| Neural Networks    | B         | William                                                     |
+| EDA                | E         | Dylan                                   |
+| Flex               | F         | Dylan                                  |
+
 # Timeline
 Time Length: 1 Quarter
 | **Finish By** | **Group** | **Tasks**                                                                                  |
@@ -9,6 +17,13 @@ Time Length: 1 Quarter
 | Jan 25        | *         | Complete [Section 5](/info/README.md)                                                      |
 | Feb 1         | A         | Complete [Section ARIMA / ARIMAX](/info/model/README.md)                                   |
 | Feb 1         | B         | Complete [Section Neural Networks](/info/model/README.md)                                  |
-| Feb 8         | E         | Complete [EDA](/info/README.md)                                                            |
-| Feb 8         | A         | Start implementing [ML ARIMAX](/info/README.md)                                            |
-| Feb 8         | B         | Start implementing [ML Neural Network](/info/README.md)                                    |
+| Feb 1         | E         | Complete [EDA](/info/README.md)                                                            |
+| Feb 8         | A         | Implement and optimize [ARIMAX](/info/README.md)                                           |
+| Feb 8         | B         | Implement [NN](/info/README.md), research training and optimizations                       |
+| Feb 8         | F         | Complete [*](/info/model/README.md) and aid groups A / B                                   |
+| Feb 15        | A         | Complete [Section Neural Networks](/info/model/README.md), aid group B                     |
+| Feb 15        | B         | Train and optimize [NN](/info/README.md)                                                   |
+| Feb 15        | F         | Aid groups A / B                                                                           |
+| Feb 22        | *         | (Optional) [Special Topics](/info/README.md)                                               |
+| Mar 1         | *         | (Optional) [Special Topics](/info/README.md)                                               |
+| Mar 5         | *         | Complete slides and rehearse for presentation                                              |
